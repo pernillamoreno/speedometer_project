@@ -106,4 +106,4 @@ void Window::onWarningCheckBoxChanged(int state)
         comService.setLeft(leftCheckBox.isChecked());
     }
 }
-ndow.h"
+
