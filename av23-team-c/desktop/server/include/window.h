@@ -3,8 +3,6 @@
 
 #include <QDialog>
 #include <QGridLayout>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
 #include <QSlider>
 #include <QCheckBox>
 #include <QLabel>
@@ -48,3 +46,4 @@ private:
 };
 
 #endif // WINDOW_H
+
