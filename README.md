@@ -11,7 +11,6 @@ Click and se how the speedometer works.
 
 The requirements for the project
 
-![Screenshot from 2024-09-29 21-42-03](https://github.com/user-attachments/assets/d782aea3-35a6-4c94-a854-06bc2fa333e9)
 ![Screenshot from 2024-09-29 21-43-09](https://github.com/user-attachments/assets/cb4974ae-73f2-4215-9a43-3e7fce60a022)
 ![Screenshot from 2024-09-29 21-50-09](https://github.com/user-attachments/assets/33a02d13-b7d0-47b7-9c99-f406bbf7ef1a)
 ![Screenshot from 2024-09-29 21-50-45](https://github.com/user-attachments/assets/9dd3fad1-7d5a-48ba-b023-88e05d235e0e)
