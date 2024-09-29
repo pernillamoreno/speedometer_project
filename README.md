@@ -9,6 +9,9 @@ Click and se how the speedometer works.
 
 [Screencast from 06. sep. 2024 kl. 17.55 +0200.webm](https://github.com/user-attachments/assets/03e37092-2cf9-4c47-a4a3-aa34761554f8)
 
+
+
+
 The requirements for the project
 
 ![Screenshot from 2024-09-29 21-43-09](https://github.com/user-attachments/assets/cb4974ae-73f2-4215-9a43-3e7fce60a022)
