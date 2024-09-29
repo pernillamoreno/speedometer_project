@@ -1,10 +1,9 @@
 # speedometer_project
 Teamwork project.
 
-A client server speedometer whit battery level and temperature range. 
-Communicating using TCP/IP & CAN protocols.
-We whre ha team of 4 and collaborated on this project.
-My main files i work on besides the overall project, was Cmakefile and server gui. 
+A client-server speedometer with battery level and temperature range. 
+Communication using TCP/IP &amp; CAN protocols. We were a team of 4 people and collaborated on this project. 
+The files I worked on, in addition to the overall project that the whole team collaborated on, were CMakefile and server gui. 
 
 Click and se how the speedometer works. 
 
