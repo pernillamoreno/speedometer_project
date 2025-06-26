@@ -4,7 +4,7 @@ Teamwork project.
 A client-server speedometer with battery level and temperature range. 
 
 Communication using TCP/IP &amp; CAN protocols. 
-We where a team of 4 people and collaborated on this project.  
+
 
 Click and se how the speedometer works. 
 
